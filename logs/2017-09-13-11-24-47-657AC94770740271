@@ -1,0 +1,2 @@
+8312ca496db04e0dea6fd9de64682358e43c65609a032ecbe98915af86dd8459 oceancool.in [13/Sep/2017:10:17:04 +0000] 137.254.7.165 - 5B1B46A067CCF025 REST.HEAD.BUCKET - "HEAD /oceancool.in HTTP/1.1" 301 PermanentRedirect 450 - 1 - "-" "S3Console/0.4, aws-internal/3" -
+8312ca496db04e0dea6fd9de64682358e43c65609a032ecbe98915af86dd8459 oceancool.in [13/Sep/2017:10:17:04 +0000] 137.254.7.165 - 603BFB39AD177154 REST.HEAD.BUCKET - "HEAD /oceancool.in HTTP/1.1" 301 PermanentRedirect 450 - 7 - "-" "S3Console/0.4, aws-internal/3" -
